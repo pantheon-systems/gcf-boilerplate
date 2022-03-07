@@ -1,6 +1,8 @@
 # Google Cloud Function Boilerplate
 This repo is a quick way to develop Google Cloud functions locally and deploy them to GCF when ready.
 
+[![Unsupported](https://img.shields.io/badge/Pantheon-Unsupported-yellow?logo=pantheon&color=FFDC28)](https://pantheon.io/docs/oss-support-levels#unsupported)
+
 # Getting started
 1. Clone down the repo.
 1. Navigate to `package.json` and update the following components:
